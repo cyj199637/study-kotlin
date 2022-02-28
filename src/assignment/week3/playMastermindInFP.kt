@@ -1,4 +1,4 @@
-package assignment
+package assignment.week3
 
 data class EvaluationFP(val rightPosition: Int, val wrongPosition: Int)
 
