@@ -1,10 +1,10 @@
-package games.game2048
+package assignment.week5.games.game2048
 
-import board.Cell
-import board.Direction
-import board.GameBoard
-import board.createGameBoard
-import games.game.Game
+import assignment.week5.board.Cell
+import assignment.week5.board.Direction
+import assignment.week5.board.GameBoard
+import assignment.week5.board.createGameBoard
+import assignment.week5.games.game.Game
 
 /*
  * Your task is to implement the game 2048 https://en.wikipedia.org/wiki/2048_(video_game).

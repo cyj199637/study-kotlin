@@ -1,4 +1,4 @@
-package board
+package assignment.week5.board
 
 data class Cell(val i: Int, val j: Int) {
     override fun toString()= "($i, $j)"

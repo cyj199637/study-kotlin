@@ -1,4 +1,4 @@
-package board
+package assignment.week5.board
 
 open class SquareBoardImpl(override val width: Int): SquareBoard {
     override var cells: MutableList<Cell> = mutableListOf()

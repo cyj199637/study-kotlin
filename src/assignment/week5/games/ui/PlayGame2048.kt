@@ -1,6 +1,6 @@
-package games.ui
+package assignment.week5.games.ui
 
-import games.game2048.newGame2048
+import assignment.week5.games.game2048.newGame2048
 import java.awt.Color
 
 object Game2048Settings : GameSettings("Game 2048", Color(0xbbada0)) {

@@ -1,7 +1,7 @@
-package games.game2048
+package assignment.week5.games.game2048
 
-import board.Cell
-import board.GameBoard
+import assignment.week5.board.Cell
+import assignment.week5.board.GameBoard
 import kotlin.random.Random
 import kotlin.random.nextInt
 

@@ -1,4 +1,4 @@
-package board
+package assignment.week5.board
 
 class GameBoardImpl<Any>(override val width: Int): SquareBoardImpl(width), GameBoard<Any> {
     override val map = mutableMapOf<Cell, Any?>()

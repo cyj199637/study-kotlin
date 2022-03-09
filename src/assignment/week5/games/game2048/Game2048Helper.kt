@@ -1,4 +1,4 @@
-package games.game2048
+package assignment.week5.games.game2048
 
 /*
  * This function moves all the non-null elements to the beginning of the list
